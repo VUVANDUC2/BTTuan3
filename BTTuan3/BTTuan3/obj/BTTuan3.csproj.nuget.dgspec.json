@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj": {}
+    "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj": {}
   },
   "projects": {
-    "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj": {
+    "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj",
+        "projectUniqueName": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj",
         "projectName": "BTTuan3",
-        "projectPath": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj",
+        "projectPath": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3\\BTTuan3.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\obj\\",
+        "outputPath": "D:\\MyProjectTuan3\\BTTuan3\\BTTuan3\\BTTuan3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
